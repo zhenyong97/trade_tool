@@ -16,6 +16,6 @@ __RedefPanelMod.py:__ 实现界面的图形化,MPL_Panel_Base类为行情界面�
 运行GUI_QuantTradeSys.py文件作为其作为启动总工程的主文件入口
 
 ## __展示如下__
-[!choise](https://github.com/callmehero/trade_tool/blob/master/static/input.png)
-[!dispaly](https://github.com/callmehero/trade_tool/blob/master/static/display.png)
-[!backdisplay](https://github.com/callmehero/trade_tool/blob/master/static/backdisplay.png)
+![choise](https://github.com/callmehero/trade_tool/blob/master/static/input.png)
+![dispaly](https://github.com/callmehero/trade_tool/blob/master/static/display.png)
+![backdisplay](https://github.com/callmehero/trade_tool/blob/master/static/backdisplay.png)
