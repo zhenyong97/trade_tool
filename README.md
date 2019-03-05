@@ -6,8 +6,11 @@
 
 ## __文件结构如下:__
 __GUI_QuantTradeSys.py:__ 实现界面交互，比如按钮事件触发、页面切换等
+
 __StockDataMod.py:__ 实现数据获取和基础数据的处理
+
 __IndicatStrateMod.py:__ 实现指标计算和策略执行
+
 __RedefPanelMod.py:__ 实现界面的图形化,MPL_Panel_Base类为行情界面的图形定义，Loop_Panel_Base类为回测界面的图形定义
 
 -----------------
