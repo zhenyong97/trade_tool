@@ -1,6 +1,6 @@
 #! /usr/bin/env python 
 #-*- encoding: utf-8 -*- 
-#author pythontab.com 
+ 
 import wx
 from wx.adv import DatePickerCtrl, DP_DROPDOWN, DP_SHOWCENTURY, DP_ALLOWNONE
 
